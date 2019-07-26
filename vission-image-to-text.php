@@ -56,7 +56,7 @@ $data = [
       ]
     ]
 ];
-$api_key = 'AIzaSyBjO4mYVZYICiCMHNmO91Avu8qU3JpjmhE';
+$api_key = '*******************************************';
 $url = "https://vision.googleapis.com/v1/images:annotate?key=".$api_key;
 
 $payload = json_encode($data);
